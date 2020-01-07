@@ -1,2 +1,2 @@
 # huddle-landing-page
-Created using html, css and flexbox
+A Simple webpage created using html, css and flexbox
